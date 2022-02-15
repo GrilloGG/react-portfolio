@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GrilloGG/react-portfolio/static/css/main.6ba985ae.css",
+    "main.js": "/GrilloGG/react-portfolio/static/js/main.ab3db77c.js",
+    "static/media/project04.jpg": "/GrilloGG/react-portfolio/static/media/project04.8371a18f87edde31dda7.jpg",
+    "static/media/project05.jpg": "/GrilloGG/react-portfolio/static/media/project05.15b2f0e4bef0ef9096c8.jpg",
+    "static/media/project03.jpg": "/GrilloGG/react-portfolio/static/media/project03.c9236cb9d5566810547d.jpg",
+    "static/media/project-01.jpg": "/GrilloGG/react-portfolio/static/media/project-01.e8a129f3d27b03651d06.jpg",
+    "static/media/Resume-Carlos-Garnacho.pdf": "/GrilloGG/react-portfolio/static/media/Resume-Carlos-Garnacho.ddd3b2ea7c6e127a5f1c.pdf",
+    "static/media/weather-dashboard.png": "/GrilloGG/react-portfolio/static/media/weather-dashboard.c745a09a0ef5ca07aa71.png",
+    "index.html": "/GrilloGG/react-portfolio/index.html",
+    "main.6ba985ae.css.map": "/GrilloGG/react-portfolio/static/css/main.6ba985ae.css.map",
+    "main.ab3db77c.js.map": "/GrilloGG/react-portfolio/static/js/main.ab3db77c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ba985ae.css",
+    "static/js/main.ab3db77c.js"
+  ]
+}
