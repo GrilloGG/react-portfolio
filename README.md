@@ -2,8 +2,6 @@
 
 ## Table Of Contents
 
-- [React-portfolio](#react-portfolio)
-  - [Table Of Contents](#table-of-contents)
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -44,7 +42,7 @@ There is no test available for this app.
 ## Links
 
 Github Link: https://github.com/GrilloGG/book-search-engine
-Heroku Link:
+Deploy Link: https://grillogg.github.io/react-portfolio/
 
 ## Questions
 
